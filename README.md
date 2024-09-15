@@ -6,7 +6,9 @@ Functional
 - Displays temperature, pressure, humidity, wind speed and weather descriptions.
 - Dynamically change the background image depending on weather conditions (clear, cloudy, rainy, etc.).
 
-![image](https://github.com/user-attachments/assets/29007011-0d2c-4c13-aa52-ae96e3c023b8)
+![image](https://github.com/user-attachments/assets/29007011-0d2c-4c13-aa52-ae96e3c023b8)     ![image](https://github.com/user-attachments/assets/585c1df4-b0dc-4dc2-82d89c3786cea223)   ![image](https://github.com/user-attachments/assets/ee9138ef-53d1-4855-a8ec-cd760d79b4b6)
+
+
 
 - Tests
 
