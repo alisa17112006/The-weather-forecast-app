@@ -1,0 +1,29 @@
+{"coord":
+{
+  "lon":27.5667,
+  "lat":53.9
+},
+  "weather":
+  [
+    {
+      "id":800,
+      "main":"Clear",
+      "description":"ясно",
+      "icon":"01n"
+    }
+  ],
+  "base":"stations",
+  "main":
+  {
+    "temp":13.86,
+    "feels_like":13.68,
+    "temp_min":13.86,
+    "temp_max":13.86,
+    "pressure":1013,
+    "humidity":91,
+    "sea_level":1013,
+    "grnd_level":986
+  },
+  "visibility":10000,
+  "wind":
+  {"speed":3.27,"deg":334,"gust":6.41},"clouds":{"all":4},"dt":1723062988,"sys":{"type":1,"id":8939,"country":"BY","sunrise":1722998061,"sunset":1723053399},"timezone":10800,"id":625144,"name":"Минск","cod":200}
